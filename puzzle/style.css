@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.clr{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+#mySecion{
+    height: 300px;
+    width: 100%;
+    /* background-color: red; */
+}
+
+.common{
+    height: 100%;
+    width: 25%;
+}
+.myDiv1{
+    background-color: green;
+    float: left;
+}
+
+.myDiv2{
+    background-color: blue;
+    float: left;
+}
+
+.myDiv3{
+    background-color: pink;
+    float: left;
+}
+
+.myDiv4{
+    background-color: brown;
+    float: right;
+}
+
+.common3{
+    height: 100%;
+    width: 33.33%;
+}
+
+.common4{
+    height: 100%;
+    width: 50%;
+}
+
+.secondSection{
+    margin-top: 20px;
+}
